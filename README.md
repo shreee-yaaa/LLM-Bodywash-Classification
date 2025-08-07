@@ -61,6 +61,6 @@ Given a dataset of bodywash product reviews, predict the correct Level 1 and Lev
 ## 🧠 Author
 
 Shreya Chaudhary
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/shreyachaudhary-545832227/
  
 
